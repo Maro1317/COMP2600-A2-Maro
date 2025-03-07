@@ -3,43 +3,43 @@
 
 ---
 
-## 1. Statement of Purpose
+## 1) Statement of Purpose
 This README provides a **step-by-step guide** for creating and hosting a resume using **Markdown**, **Git**, **Pelican**, and **GitHub** (our “forge”). The instructions follow key principles from Andrew Etter’s _Modern Technical Writing_, highlighting the benefits of a **lightweight markup language**, a **distributed version control system**, a **static site generator**, and a **forge** for hosting.
 
 Our target audience is **Marvin McLaren**, a finance manager with minimal programming experience but growing interest in modern technical writing. These instructions assume Marvin is comfortable with basic Windows commands (like changing directories and running simple commands) but has **no prior experience** with Git or Pelican.
 
 By following this guide, you will:
-1) Create and format your resume in **Markdown**.  
-2) Use **Git** for version control.  
-3) Convert your Markdown resume into a website using **Pelican**.  
-4) Host your site on **GitHub Pages** so it’s publicly accessible.  
+1. Create and format your resume in **Markdown**.  
+2. Use **Git** for version control.  
+3. Convert your Markdown resume into a website using **Pelican**.  
+4. Host your site on **GitHub Pages** so it’s publicly accessible.  
 
 ---
 
-## 2. Prerequisites
+## 2) Prerequisites
 Before starting, ensure you have:
 
-1) **Windows PC** (same setup Marvin uses).  
-2) **Git** installed – [Download Git for Windows](https://git-scm.com/download/win).  
-3) **Python 3** installed – [Python Downloads](https://www.python.org/downloads/) (required for Pelican).  
-4) **Pelican** – installed via `pip install pelican markdown`.  
-5) **GitHub Account** – [Sign up on GitHub](https://github.com/) if you don’t have one.  
-6) **Markdown Editor** (optional) – You can use Visual Studio Code, Notepad++, or any editor that helps with Markdown preview.
+1. **Windows PC** (same setup Marvin uses).  
+2. **Git** installed – [Download Git for Windows](https://git-scm.com/download/win).  
+3. **Python 3** installed – [Python Downloads](https://www.python.org/downloads/) (required for Pelican).  
+4. **Pelican** – installed via `pip install pelican markdown`.  
+5. **GitHub Account** – [Sign up on GitHub](https://github.com/) if you don’t have one.  
+6. **Markdown Editor** (optional) – You can use Visual Studio Code, Notepad++, or any editor that helps with Markdown preview.
 
 These tools follow Etter’s recommendation to use free, widely available solutions that **maximize accessibility**. As Etter notes, modern writing teams should pick tools with minimal overhead, so new contributors (like Marvin) can learn quickly.
 
 ---
 
-## 3. Step-by-Step Instructions
+## 3) Step-by-Step Instructions
 The following instructions illustrate how to **format your resume** in Markdown, **generate** a static site with Pelican, and **publish** it on GitHub Pages. Each step shows relevant advice from Etter and references William S. Pfeiffer’s guidelines for creating clear instructions.
 
-### 3.1 Plan Your Markdown Resume  
+### 3.1) Plan Your Markdown Resume  
 **(Etter’s Principle: _Use Lightweight Markup_ Pfeiffer’s Guideline #1 & #5)**
 
-1) **Decide** on the basic sections for your resume (e.g., Education, Work Experience, Projects).  
-2) **Create** a new folder named `my-resume` on your Windows PC.  
-3) **Open** that folder in a text editor.  
-4) **Write** your resume in a file named `resume.md`, using Markdown headings (`#`, `##`) to structure sections. Keep each step simple: one action per line.
+1. **Decide** on the basic sections for your resume (e.g., Education, Work Experience, Projects).  
+2. **Create** a new folder named `my-resume` on your Windows PC.  
+3. **Open** that folder in a text editor.  
+4. **Write** your resume in a file named `resume.md`, using Markdown headings (`#`, `##`) to structure sections. Keep each step simple: one action per line.
 
 **Why This Matters:**  
 - **Lightweight markup** like Markdown is simpler than raw HTML, letting you focus on content rather than complicated syntax (Etter’s recommendation).  
