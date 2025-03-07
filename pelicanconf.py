@@ -1,7 +1,7 @@
 AUTHOR = 'Maro Hamed'
 SITENAME = 'Resume'
 SITEURL = ""
-
+THEME = os.path.join(os.getcwd(), "dev-random")
 PATH = "content"
 
 TIMEZONE = 'GMT'
