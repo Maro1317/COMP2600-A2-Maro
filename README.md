@@ -78,7 +78,7 @@ In the command line run:
  2.`git add .`       
  3.`git commit -m "Initial commit`  
 
-![Git Initialization Animation](animation.gif)
+![Git Initialization Animation](Animation.gif)
 
 ## 6) Push to a Forge
 1. Create a new repository on a hosting service (e.g., GitHub).  
