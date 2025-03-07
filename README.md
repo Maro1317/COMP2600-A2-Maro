@@ -133,9 +133,9 @@ For additional learning and references, explore the following resources:
 ## Authors and Acknowledgments
 
 ### **Reviewers:**
-- Ryan Dotzlaw
-- Victoria Kogan
-- Aqil Mukhi
+- Hui Miao
+- Zelong Yang
+- Shuvo Sarker
 
 
 Thanks to the team for their help !
