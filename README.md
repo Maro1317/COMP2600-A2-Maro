@@ -6,7 +6,7 @@
 ## 1) Statement of Purpose
 This README provides a **step-by-step guide** for creating and hosting a resume using **Markdown**, **Git**, **Pelican**, and **GitHub** (our “forge”). The instructions follow key principles from Andrew Etter’s _Modern Technical Writing_, highlighting the benefits of a **lightweight markup language**, a **distributed version control system**, a **static site generator**, and a **forge** for hosting.
 
-Our target audience is **Marvin McLaren**, a finance manager with minimal programming experience but growing interest in modern technical writing. These instructions assume Marvin is comfortable with basic Windows commands (like changing directories and running simple commands) but has **no prior experience** with Git or Pelican.
+The target audience is **Marvin McLaren**, a finance manager with minimal programming experience but growing interest in modern technical writing. These instructions assume Marvin is comfortable with basic Windows commands (like changing directories and running simple commands) but has **no prior experience** with Git or Pelican.
 
 By following this guide, you will:
 1. Create and format your resume in **Markdown**.  
